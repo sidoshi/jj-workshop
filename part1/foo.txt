@@ -9,3 +9,4 @@ Maybe fill this out?
 * The best superhero is ___________
 * The best operating system is linux
 * The best text editor is nvim
+* The best kind of phone is iphone
